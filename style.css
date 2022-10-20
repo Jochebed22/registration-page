@@ -1,0 +1,70 @@
+body{
+  background-color:darkgrey;
+  margin-top: 100px;
+  margin-left: 400px;
+  width: 1000px;
+  position: relative;
+   
+  box-shadow: 20px;
+  text-align: center;  
+}
+
+
+
+label,select{
+  display: block;
+  width: 200px;
+  float: left;
+  margin-top: 2px;
+  margin-bottom: 6px;
+  margin-left: 8px;
+  margin-right: 2px; 
+  border-radius: 2px;
+   text-align: left;
+}
+
+
+
+.forms{
+  background-color:gainsboro;
+  margin: 5px;
+  width: 700px;
+  border: 10px  ghostwhite double;
+  text-align: center;
+  text-shadow: 5px 5px 10px black;
+   }
+
+   .container{
+    font-size: x-large;
+    font-style: oblique;
+    word-spacing:5px;
+    color: black;
+    background-color: gainsboro;
+    width: 700px;
+ 
+     
+   }
+
+
+   .text-field{
+    display: flex; 
+    border-radius: 3px;
+ 
+
+   }
+
+   #text-input{
+    width: 400px;
+    height: 20px;
+    border: 2px grey solid;
+    border-radius: 4px;
+     
+    }
+
+    input{
+      font-family: inherit;
+      display: block;
+      border: 1px;
+      width: 100px;
+    }
+    
